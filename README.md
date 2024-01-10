@@ -1,4 +1,4 @@
-# PRCDNet-
+# PRCDNet
 Lightweight model of pavement crack detection
 
 
